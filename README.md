@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all I can to get programming experience.
 - 📫 How to reach me: @uheder_macedo on instagram.
 
-Curretly studying Science & Tecnlogy at UFERSA on Brazil.
+Currently studying Science & Tecnology at UFERSA on Brazil.
 
 <!---
 uheder/uheder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
