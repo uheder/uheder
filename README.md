@@ -2,7 +2,7 @@
 - 👀 I’m interested in General Programming knowledge and development
 - 🌱 I’m currently learning Python Application Development for solving problems.
 - 💞️ I’m looking to collaborate on all I can to get programming experience.
-- 📫 How to reach me: @uheder_macedo on instagram.
+- 📫 How to reach me: @uheder_macedo on instagram, dev.usmacedo@outlook.com
 
 Currently studying Science & Tecnology at UFERSA on Brazil.
 
