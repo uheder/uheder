@@ -1,7 +1,7 @@
 # Uheder Macedo
 
 ## About me:
-#### Meu nome é Uheder, tenho 26 anos, moro na cidade de Areia Branca/RN, trabalho atualmente no setor administrativo. Iniciei esse ano no curso de Ciência da Computação pela Estácio, e pretendo em breve trabalhar em desenvolvimento web.
+#### Meu nome é Uheder, tenho 27 anos, moro na cidade de Areia Branca/RN, trabalho atualmente no setor administrativo. Iniciei esse ano no curso de Ciência da Computação pela Estácio, e pretendo em breve trabalhar em desenvolvimento web.
 
 
 ## **Tenho algum conhecimento em**:
@@ -33,7 +33,7 @@
 * ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 * ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 * ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-* [Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+* ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## **OS que uso**:
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
