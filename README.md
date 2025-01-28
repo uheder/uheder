@@ -22,3 +22,4 @@
 ## *Alguns projetos*
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uheder&repo=Name-Format-auto)](https://github.com/uheder/Name-Format-auto)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uheder&repo=phpokelist)](https://github.com/uheder/phpokelist)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uheder&repo=Dio-LaravelApi)](https://github.com/uheder/Dio-LaravelApi)
