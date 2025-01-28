@@ -1,6 +1,6 @@
 # Uheder Macedo
 
-#### Tenho 27 anos, trabalhamdo atualmente como assistente administrativo. Iniciei esse ano no curso de Ciência da Computação pela Estácio, onde almejo desenvolver minhas habilidades para me realocar para o setor de desenvolvimento.
+#### Tenho 27 anos, ex-assistente administrativo. Iniciei esse ano no curso de Ciência da Computação pela Estácio, onde almejo desenvolver minhas habilidades para me realocar para o setor de desenvolvimento.
 
 
 ## *Tenho certo conhecimento em*
