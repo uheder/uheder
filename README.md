@@ -1,6 +1,6 @@
 # Uheder Macedo
 
-#### Tenho 27 anos, ex-assistente administrativo. Iniciei em 2024 o curso de Ciência da Computação pela Estácio, onde almejo desenvolver minhas habilidades para me realocar para o setor de desenvolvimento. No momento procuro por oportunidades de estágio na área, preferencialmente com Laravel.
+#### Tenho 28 anos, ex-assistente administrativo. Iniciei em 2024 o curso de Ciência da Computação pela Estácio, onde almejo desenvolver minhas habilidades para me realocar para o setor de desenvolvimento. No momento procuro por oportunidades de estágio na área, preferencialmente com Laravel.
 
 
 ## *Tenho certo conhecimento em*
