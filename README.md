@@ -22,9 +22,3 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/uheders)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uheder_macedo/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dev.usmacedo@outlook.com)
-
-
-## *Alguns projetos*
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uheder&repo=Name-Format-auto)](https://github.com/uheder/Name-Format-auto)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uheder&repo=phpokelist)](https://github.com/uheder/phpokelist)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uheder&repo=Dio-LaravelApi)](https://github.com/uheder/Dio-LaravelApi)
